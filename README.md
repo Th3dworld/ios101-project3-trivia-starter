@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-![Demo]([https://s7.ezgif.com/tmp/ezgif-7cae57056d4e6c.gif](https://github.com/Th3dworld/ios101-project3-trivia-starter))
+![Demo](https://github.com/Th3dworld/ios101-project3-trivia-starter/ezgif.com-video-to-gif-converter.gif)
 
 
 
